@@ -38,4 +38,3 @@ OneBody::Application.configure do
     }
   end
 end
-
