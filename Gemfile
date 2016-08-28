@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rails'
 
 # select the appropriate gem below for your database:
-#gem 'pg'
+# gem 'pg'
 
 gem 'activerecord-session_store'
 gem 'acts_as_list'
